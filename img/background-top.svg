@@ -1,0 +1,20 @@
+<svg width="1700.000000" height="1076.000732" viewBox="0 0 1700 1076" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="background-top" width="1600.000000" height="815.000000" transform="translate(100.000000 261.000732)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="Rectangle 7" d="M100 805L1700 805L1700 865L100 1076L100 805Z" fill="#EF2A82" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Rectangle 5" d="M100 261L1700 261L1700 848L100 1059L100 261Z" fill="#172755" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<mask id="mask1_488" mask-type="alpha" maskUnits="userSpaceOnUse" x="100.000000" y="261.000610" width="1600.000000" height="798.000000">
+		<path id="Rectangle 8" d="M100 261L1700 261L1700 848L100 1059L100 261Z" fill="#172755" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask1_488)">
+		<g opacity="0.070000">
+			<path id="Subtract" d="M1339 223C1585.44 223 1802.93 346.98 1932.47 535.98L1428.88 1039.59L1132.93 743.63C1097.82 708.53 1040.92 708.53 1005.82 743.63L639.68 1109.78C626.81 1055.94 620 999.77 620 942C620 544.9 941.9 223 1339 223ZM1492.43 1230.24L2017.93 704.73C2043.89 779.01 2058 858.86 2058 942C2058 1339.09 1736.09 1661 1339 1661C1069.19 1661 834.1 1512.39 711.1 1292.56L1069.38 934.29L1365.32 1230.24C1400.42 1265.34 1457.33 1265.34 1492.43 1230.24Z" fill="#8794BA" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+	</g>
+	<g opacity="0.070000">
+		<path id="Subtract" d="M330 0C443.11 0 542.92 56.9 602.38 143.65L371.25 374.78L235.41 238.95C219.3 222.84 193.19 222.84 177.08 238.95L9.03 407C3.12 382.3 0 356.51 0 330C0 147.74 147.74 0 330 0ZM400.41 462.29L641.6 221.1C653.52 255.19 660 291.84 660 330C660 512.25 512.25 660 330 660C206.16 660 98.26 591.79 41.81 490.89L206.25 326.46L342.08 462.29C358.19 478.4 384.3 478.4 400.41 462.29Z" fill="#8794BA" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

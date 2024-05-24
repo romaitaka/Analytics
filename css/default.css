@@ -1,0 +1,42 @@
+/* Reset default HTML properties */
+html {
+    scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Reset margins and paddings for all heading tags */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset margins and paddings for unordered lists and list items */
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Reset margins and paddings for paragraphs */
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Reset margins and paddings for images */
+img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
